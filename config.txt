@@ -1,0 +1,8 @@
+twocaptchaAPI=
+url=https://slamjamsocialism-drops.com/drops/53/
+sitekey=6LfYhz0UAAAAAJFKp28Sg0NnAEIPMfKI1RJSGsdB
+productNo=48
+raffleNo=53
+phoneAreaCode=503
+catchAllDomain=
+catchAllPrefix=
