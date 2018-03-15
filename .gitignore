@@ -13,3 +13,4 @@ env.bak/
 venv.bak/
 
 *.txt
+*.swp
