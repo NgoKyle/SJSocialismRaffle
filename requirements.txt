@@ -1,5 +1,10 @@
 certifi==2018.1.18
 chardet==3.0.4
+fake-useragent==0.1.10
+Faker==0.8.12
 idna==2.6
+python-dateutil==2.7.0
 requests==2.18.4
+six==1.11.0
+text-unidecode==1.2
 urllib3==1.22
