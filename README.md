@@ -12,7 +12,7 @@ A super fast raffle bot for Slam Jam Socialism.
 Things you will need:
 1. Python 3
 2. Install libraries from the requirements.txt
-3. 2Captcha
+3. 2Captcha (https://2captcha.com?from=2388534)
 4. catchall email (https://www.namecheap.com)
 
 Open the config.txt file and enter in your informtation.<p/>
