@@ -15,18 +15,20 @@ Things you will need:
 3. 2Captcha
 4. catchall email (https://www.namecheap.com)
 
-Open the config.txt file and enter in your informtation.
+Open the config.txt file and enter in your informtation.<p/>
 
-  Settings for air presto x Offwhite 'white' for Aug 2nd 14 PM:
-	twocaptchaKey=ENTER-YOUR-2CAPTCHA-KEY
-	url=https://slamjamsocialism-drops.com/drops/140
-	sitekey=6LfYhz0UAAAAAJFKp28Sg0NnAEIPMfKI1RJSGsdB
-	productNo=140
-	raffleNo=53
-	phoneAreaCode=ANY-3-DIGITS-AREA-CODE. Ex: 503
-	catchAllDomain=YOUR-CATCH-ALL-DOMAIN. Ex: litcart.club
-	catchAllPrefix=CAN BE ANYTHING. EX: shoes
-	producerThread=NUMBER-THREAD-TO-HARVEST-CAPTCHA Ex: 50
-	consumerThread=NUMBER-THREAD-TO-SUBMIT-RAFFLE   Ex: 8
+  Settings for air presto x Offwhite 'white' for Aug 2nd 14 PM:<p>
+	<ul>
+	<li>twocaptchaKey=ENTER-YOUR-2CAPTCHA-KEY</li>
+	<li>url=https://slamjamsocialism-drops.com/drops/140</li>
+	<li>sitekey=6LfYhz0UAAAAAJFKp28Sg0NnAEIPMfKI1RJSGsdB</li>
+	<li>productNo=140</li>
+	<li>raffleNo=53</li>
+	<li>phoneAreaCode=ANY-3-DIGITS-AREA-CODE. Ex: 503</li>
+	<li>catchAllDomain=YOUR-CATCH-ALL-DOMAIN. Ex: litcart.club</li>
+	<li>catchAllPrefix=CAN BE ANYTHING. EX: shoes</li>
+	<li>producerThread=NUMBER-THREAD-TO-HARVEST-CAPTCHA Ex: 50</li>
+	<li>consumerThread=NUMBER-THREAD-TO-SUBMIT-RAFFLE   Ex: 8</li>
+	<ul>
 
 Lastly, run python3 on raffle.py
