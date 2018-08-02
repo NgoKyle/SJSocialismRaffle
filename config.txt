@@ -1,10 +1,10 @@
-twocaptchaKey=44dbdbd8c7e51f8e0413ba5f5f5124be
-url=https://slamjamsocialism-drops.com/drops/53/
+twocaptchaKey=
+url=https://slamjamsocialism-drops.com/drops/140
 sitekey=6LfYhz0UAAAAAJFKp28Sg0NnAEIPMfKI1RJSGsdB
-productNo=48
+productNo=140
 raffleNo=53
 phoneAreaCode=503
-catchAllDomain=litcart1.club
-catchAllPrefix=shoescart
-producerThread=10
-consumerThread=2
+catchAllDomain=
+catchAllPrefix=
+producerThread=50
+consumerThread=8
