@@ -1,10 +1,10 @@
 twocaptchaKey=
 url=https://slamjamsocialism-drops.com/drops/140
 sitekey=6LfYhz0UAAAAAJFKp28Sg0NnAEIPMfKI1RJSGsdB
-productNo=140
-raffleNo=53
+productNo=115
+raffleNo=140
 phoneAreaCode=503
 catchAllDomain=
-catchAllPrefix=
+catchAllPrefix=shoes
 producerThread=50
 consumerThread=8

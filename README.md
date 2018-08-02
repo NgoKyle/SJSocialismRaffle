@@ -22,8 +22,8 @@ Open the config.txt file and enter in your informtation.<p/>
 	<li>twocaptchaKey=ENTER-YOUR-2CAPTCHA-KEY</li>
 	<li>url=https://slamjamsocialism-drops.com/drops/140</li>
 	<li>sitekey=6LfYhz0UAAAAAJFKp28Sg0NnAEIPMfKI1RJSGsdB</li>
-	<li>productNo=140</li>
-	<li>raffleNo=53</li>
+	<li>productNo=115</li>
+	<li>raffleNo=140</li>
 	<li>phoneAreaCode=ANY-3-DIGITS-AREA-CODE. Ex: 503</li>
 	<li>catchAllDomain=YOUR-CATCH-ALL-DOMAIN. Ex: litcart.club</li>
 	<li>catchAllPrefix=CAN BE ANYTHING. EX: shoes</li>

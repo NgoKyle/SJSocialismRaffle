@@ -57,8 +57,8 @@ class Consumer(threading.Thread):
                 "phone":self.phone_gen(),
                 "country":'840',
                 "city":fake.address().split('\n')[1].split(',')[0],
-                "order":[{"product":'48',"size":size}],
-                "raffle":'53',
+                "order":[{"product":self.productNo,"size":size}],
+                "raffle":self.raffleNo,
                 "captcha":answer,
                 "date":date_time
                 }
@@ -98,7 +98,8 @@ class Consumer(threading.Thread):
 
 
         except:
-            print("Unexpected error:", sys.exc_info()[0])
+            continue
+            # print("Unexpected error:", sys.exc_info()[0])
 
     def run(self):
         while True:
