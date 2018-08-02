@@ -40,12 +40,8 @@ class Consumer(threading.Thread):
         s = requests.Session()
         j = s.get(self.url, headers=getheaders)
 
-        size_1 = str(randint(7,13))
-        bool = randint(0,1)
-        if bool == 0:
-            size = str(size_1)
-        else:
-            size= str(size_1) + ' ½'
+        sizes = ['36', '37 ½', '38 ½', '40', '41', '42 ½', '44', '45', '46']
+        size = (random.choice(sizes))
 
         raw_date = datetime.datetime.now()
         r_date = str(raw_date).split(' ')[0]
