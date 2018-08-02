@@ -98,7 +98,7 @@ class Consumer(threading.Thread):
 
 
         except:
-            continue
+            return
             # print("Unexpected error:", sys.exc_info()[0])
 
     def run(self):
