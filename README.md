@@ -1,3 +1,4 @@
+# US ONLY!!!!!!!!!
 #  SJSocialismRaffle
 
 A super fast raffle bot for Slam Jam Socialism.
